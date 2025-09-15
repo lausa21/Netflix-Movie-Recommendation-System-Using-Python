@@ -21,7 +21,7 @@ The recommendation engine works by quantifying the "content" of each title and m
 
 ### 🎯 Results & Analysis
 The system effectively generates relevant and context-aware recommendations. For instance:
-* An input like **"The Irishman"** yields recommendations that are also `Dramas` from the `United States`, including other thematically similar crime films.
+* An input like **"The Irishman"** yields recommendations that are also `Dramas` ``Movie` from the `United States`, including other thematically similar crime films.
 <img width="859" height="474" alt="image" src="https://github.com/user-attachments/assets/317ed919-3627-45cc-adf8-c218a209f946" />
 
 ---
