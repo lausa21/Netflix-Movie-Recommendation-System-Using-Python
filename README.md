@@ -28,8 +28,7 @@ The system effectively generates relevant and context-aware recommendations. For
 
 ### 🚀 Deployment with Streamlit
 The recommendation model was deployed as an interactive web app to ensure ease of use.
-* **Live Application:** **[Projectmodep on Streamlit](https://projectmodep.streamlit.app/)**
-* **GitHub Repository:** **[streamlit_project_model_deployment on GitHub](https://github.com/evelynuntariady/streamlit_project_model_deployment)**
+* **Live Application:** **[Deployment Project on Streamlit](https://projectmodep.streamlit.app/)**
 
 ---
 
