@@ -6,7 +6,7 @@ This project developed for a Model Deployment course in my 4th-semester.
 ---
 
 ### 📊 Dataset 
-* **Source:** **[Netflix Movies and TV Shows Dataset on Kaggle]([https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows])**
+* **Source:** **[Netflix Movies and TV Shows Dataset on Kaggle](https://www.kaggle.com/datasets/anandshaw2001/netflix-movies-and-tv-shows)**
 
 ---
 
