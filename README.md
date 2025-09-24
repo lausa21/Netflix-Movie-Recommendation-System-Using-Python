@@ -33,6 +33,6 @@ The recommendation model was deployed as an interactive web app to ensure ease o
 ---
 
 ### 🖋 Author
-Caroline Ang
-Evelyn Caristy Untariady
-Laurel Evelina Widjaja
+* Caroline Ang
+* Evelyn Caristy Untariady
+* Laurel Evelina Widjaja
